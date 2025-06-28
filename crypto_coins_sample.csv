@@ -1,0 +1,6 @@
+Coin,Symbol,Market_Cap_USD_B,Price_USD,Volume_24h_USD_B,Circulating_Supply,Launch_Year
+Bitcoin,BTC,800,42000.0,35.0,19000000,2009
+Ethereum,ETH,360,2800.0,20.0,120000000,2015
+Binance Coin,BNB,85,580.0,1.5,153000000,2017
+Cardano,ADA,20,0.55,0.8,35000000000,2017
+Solana,SOL,60,135.0,1.2,420000000,2020

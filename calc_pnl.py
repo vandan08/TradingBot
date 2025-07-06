@@ -92,15 +92,15 @@ for pos in positions:
     # 🧠 Updated Investment-based Take Profit Strategy
     tp_percent = None
     if invest_pct <= 25:
-        tp_percent = 0.35
+        tp_percent = 0.41
     elif invest_pct <= 40:
-        tp_percent = 0.26
+        tp_percent = 0.32
     elif invest_pct <= 60:
-        tp_percent = 0.18
+        tp_percent = 0.23
     elif invest_pct <= 80:
-        tp_percent = 0.12
+        tp_percent = 0.17
     elif invest_pct <= 100:
-        tp_percent = 0.0775
+        tp_percent = 0.105
 
     if tp_percent is not None:
         target_pnl = invested_inr * tp_percent
